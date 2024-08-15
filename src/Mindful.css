@@ -1,0 +1,14 @@
+.min-vh-100 {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .scalable-text {
+    font-size: calc(16px + 1vw);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
