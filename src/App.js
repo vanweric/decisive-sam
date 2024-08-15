@@ -10,7 +10,7 @@ const Mindful = () => {
   const [mindfulText, setMindfulText] = useState('');
 
   useEffect(() => {
-    fetch('/mindful.txt')
+    fetch('./mindful.txt')
       .then(response => response.text())
       .then(text => {
         const lines = text.split('\n');
