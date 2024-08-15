@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/decisive-sam/static/css/main.5f8c3bcd.css",
+    "main.js": "/decisive-sam/static/js/main.81a2ce53.js",
+    "static/js/453.03007193.chunk.js": "/decisive-sam/static/js/453.03007193.chunk.js",
+    "index.html": "/decisive-sam/index.html",
+    "main.5f8c3bcd.css.map": "/decisive-sam/static/css/main.5f8c3bcd.css.map",
+    "main.81a2ce53.js.map": "/decisive-sam/static/js/main.81a2ce53.js.map",
+    "453.03007193.chunk.js.map": "/decisive-sam/static/js/453.03007193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8c3bcd.css",
+    "static/js/main.81a2ce53.js"
+  ]
+}
